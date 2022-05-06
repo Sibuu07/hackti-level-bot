@@ -12,11 +12,11 @@
 Button : If you are deploying normally
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fyashcybrot%2Fhackti-level-bot&template=https%3A%2F%2Fgithub.com%2Fyashcybrot%2Fhackti-level-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fyashcybrot%2Fhackti-level-bot&template=https%3A%2F%2Fgithub.com%2Fyashcybrot%2Fhackti-level-bot)
 
 Button : If you are deploying from a fork
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 </div><br/>
 <br/>
